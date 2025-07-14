@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 سلام! من علی هستم
 
-<!--
-**aliloloeng/aliloloeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Front-End Developer
 
-Here are some ideas to get you started:
+- HTML, CSS, Flexbox, Grid
+- JavaScript (ES6), DOM
+- Bootstrap, Vue.js
+- Git و GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 در حال حاضر:
+- ساخت پروژه با Vue.js و API
+- یادگیری و تمرین GitHub و مستندسازی
+- ساخت رزومه حرفه‌ای برای استخدام
+
+## 🎯 هدف من:
+- تبدیل شدن به توسعه‌دهنده حرفه‌ای فرانت‌اند
+- آپلود پروژه‌های واقعی در گیت‌هاب
+- رشد مداوم در دنیای برنامه‌نویسی وب
+
+## 📫 ارتباط با من:
+(بعداً لینک LinkedIn و ایمیل رو اضافه کن)

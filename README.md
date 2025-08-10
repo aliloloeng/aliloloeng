@@ -5,6 +5,7 @@
 - HTML, CSS, Flexbox, Grid
 - JavaScript (ES6), DOM
 - Bootstrap, Vue.js
+- Tailwindcss
 - Git و GitHub
 
 ## 🌱 در حال حاضر:
